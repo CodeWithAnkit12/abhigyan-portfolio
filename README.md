@@ -7,7 +7,7 @@ wordmark, an offcanvas menu and a project popup.
 The layout follows a commercial reference design, but every line of HTML, CSS and JS
 here was written from scratch — no template files, no licence attached.
 
-## Run it
+## Run it jnj
 
 ```bash
 npm install
